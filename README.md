@@ -21,9 +21,11 @@
 * 2x Optokoppler LTV 354T-SMD (LTV 354T-SMD) Wird nur benötigt wenn 230V Tastereingänge benutzt werden!
 
 
+Passend für eine Tiefe Unterputzdose.
+
 [Kontakt via Facebook](https://www.facebook.com/ronny.thomas.83)
 
-[Software je nach Projekt](https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-LC-Sw2-FM/HM-LC-Sw2-FM.ino)
+[Software](https://github.com/ronnythomas/HM-LC-Sw2-FM/blob/master/Software/HM-LC-Sw2-FM.ino)
 
 
 Reset Taster Auslöten
@@ -36,4 +38,40 @@ Tastereingänge Low Voltage! wenn diese Variante benutzt wird sind die zwei Opto
 ![complete](Images/4.jpg)
 ![complete](Images/5.jpg)
 ![complete](Images/6.jpg)
+![complete](Images/7.jpg)
+![complete](Images/8.jpg)
+![complete](Images/9.jpg)
 
+Ein passendes Gehause incl. HM Frontplatte hat Jan gezeichnet. Damit passen die Orginal HM Wippendapter exact drauf und die Verwendung mit allen gängigen Schalterserien ist möglich.
+Link folgt noch!
+
+![complete](Images/10.jpg)
+![complete](Images/11.jpg)
+![complete](Images/12.jpg)
+![complete](Images/13.jpg)
+![complete](Images/14.jpg)
+![complete](Images/15.jpg)
+![complete](Images/16.jpg)
+![complete](Images/17.jpg)
+![complete](Images/18.jpg)
+![complete](Images/19.jpg)
+![complete](Images/20.jpg)
+![complete](Images/21.jpg)
+![complete](Images/22.jpg)
+![complete](Images/23.jpg)
+![complete](Images/24.jpg)
+![complete](Images/25.jpg)
+![complete](Images/26.jpg)
+![complete](Images/27.jpg)
+![complete](Images/28.jpg)
+![complete](Images/29.jpg)
+![complete](Images/30.jpg)
+![complete](Images/31.jpg)
+![complete](Images/32.jpg)
+![complete](Images/33.jpg)
+![complete](Images/34.jpg)
+![complete](Images/35.jpg)
+![complete](Images/36.jpg)
+![complete](Images/37.jpg)
+![complete](Images/38.jpg)
+![complete](Images/39.jpg)
