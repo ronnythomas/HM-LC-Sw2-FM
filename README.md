@@ -27,7 +27,7 @@ Passend für eine Tiefe Unterputzdose.
 
 [Software](https://github.com/ronnythomas/HM-LC-Sw2-FM/blob/master/Software/HM-LC-Sw2-FM.ino)
 
-[Gehäuse](hhttps://www.thingiverse.com/thing:3851272)
+[Gehäuse](https://www.thingiverse.com/thing:3851272)
 
 
 Reset Taster Auslöten
