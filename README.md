@@ -27,6 +27,8 @@ Passend für eine Tiefe Unterputzdose.
 
 [Software](https://github.com/ronnythomas/HM-LC-Sw2-FM/blob/master/Software/HM-LC-Sw2-FM.ino)
 
+[Gehäuse](hhttps://www.thingiverse.com/thing:3851272)
+
 
 Reset Taster Auslöten
 ![complete](Images/1.jpg)
@@ -43,9 +45,9 @@ Tastereingänge Low Voltage! wenn diese Variante benutzt wird sind die zwei Opto
 ![complete](Images/9.jpg)
 
 Ein passendes Gehause incl. HM Frontplatte hat Jan gezeichnet. Damit passen die Orginal HM Wippendapter exact drauf und die Verwendung mit allen gängigen Schalterserien ist möglich.
-Link folgt noch!
 
-![complete](Images/10.jpg)
+
+
 ![complete](Images/11.jpg)
 ![complete](Images/12.jpg)
 ![complete](Images/13.jpg)
@@ -63,15 +65,4 @@ Link folgt noch!
 ![complete](Images/25.jpg)
 ![complete](Images/26.jpg)
 ![complete](Images/27.jpg)
-![complete](Images/28.jpg)
-![complete](Images/29.jpg)
-![complete](Images/30.jpg)
-![complete](Images/31.jpg)
-![complete](Images/32.jpg)
-![complete](Images/33.jpg)
-![complete](Images/34.jpg)
-![complete](Images/35.jpg)
-![complete](Images/36.jpg)
-![complete](Images/37.jpg)
 ![complete](Images/38.jpg)
-![complete](Images/39.jpg)
