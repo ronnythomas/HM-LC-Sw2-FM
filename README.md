@@ -8,7 +8,8 @@
 * 1x Klemme AST 06 3,5 (AST 06 3,5)
 * 2x pa1a-5v
 * 2x BC546
-* 3x 1/4W 330 Ohm Widerstand
+* 1x 1/4W 330 Ohm Widerstand
+* 2x 1/4W 150 Ohm Widerstand
 * 1x Led 5mm
 * 1x Taster 6x6
 * 2x Diode 1N4148
